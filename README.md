@@ -1,8 +1,9 @@
 # Examen-final-
 Mi computadora no esta guardando los archivos de R aparecen vacios desde el examen pasado y lo que me recomendó Jorge fue pegar mis códigos aquí
-####EXAMEN EJERCICIO 2 
-#(15) Elabora un programa que a partir de un objeto de tipo phyloseq generado de un análisis  
-#de identificación taxonómica  a partir del gen 16S ribosomal elabora un programa que
+#EXAMEN EJERCICIO 2 
+(15) Elabora un programa que a partir de un objeto de tipo phyloseq generado de un análisis  
+de identificación taxonómica  a partir del gen 16S ribosomal elabora un programa que
+
 #Cargo mis librerias correspondientes 
 library(phyloseq)
 library(ggplot2)
